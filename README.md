@@ -2,6 +2,7 @@
 Use usb gadget hid to transfer Phone's battery capacity to PC
 
 protocol define:
+
 |SOF  |LEN  |CMD  |PAYLOAD     |CRC16 |EOF  |
 
 |1Byte|1Byte|1Byte|最大249Bytes|2Bytes|1Byte|
