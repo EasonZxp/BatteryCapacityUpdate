@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UsbHidDemoTest</string>
+    <string name="btn1_name">发送电量信息</string>
+</resources>
